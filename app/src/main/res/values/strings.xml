@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Zemingo</string>
+    <string name="name">Ekaterina</string>
+    <string name="submit">Submit</string>
+    <string name="cars">cars</string>
+    <string name="sport_culture">sport and culture</string>
+    <string name="sport">sport</string>
+    <string name="culture">culture</string>
+    <string name="title">title:</string>
+    <string name="date_time">date and time:</string>
+
 </resources>
